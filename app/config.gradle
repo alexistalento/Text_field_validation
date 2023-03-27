@@ -1,0 +1,10 @@
+ext.configs = [
+        applicationName     : "Form Validation",
+        applicationId       : "com.alexis.form_alidation",
+        versionCode         : 1,
+        versionName         : "0.0.1",
+        minSdkVersion       : 21,
+        targetSdkVersion    : 33,
+        compileSdkVersion   : 33,
+        buildToolsVersion   : "30.0.2",
+]
